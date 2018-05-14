@@ -47,3 +47,7 @@ nav ul li {
 .dropdown:hover > ul {
     display: block;
 }
+
+img {
+    width: 100%;
+}
